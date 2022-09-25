@@ -11,12 +11,11 @@ class Person {
 }
 
 void main() {
-
   var person = Person();
 
   person
-  ..name = "Daryll David Dagondon"
-  ..height = 173
+  ?..name = "Daryll David Dagondon"
   ..age = 28
+  ..height = 173
   ..printValues();
 }
