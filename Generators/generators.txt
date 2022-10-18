@@ -1,0 +1,4 @@
+When you need to lazily produce a sequence of values, consider using a generator function. Dart has built-in support for two kinds of generator functions:
+
+    Synchronous generator: Returns an Iterable object.
+    Asynchronous generator: Returns a Stream object.

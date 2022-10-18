@@ -20,3 +20,5 @@ void main() {
   var d = EffectiveDoer();
   d.doSomething();
 }
+
+// Do something

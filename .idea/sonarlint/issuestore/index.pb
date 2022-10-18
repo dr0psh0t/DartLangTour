@@ -3,10 +3,6 @@ L
 variables/default-value.dart,1/c/1ce0490c25833f54d076e85280d640cc8cfb3091
 M
 variables/late-variables.dart,7/9/79aff7bbfb8accdf2cc80d08a372d44765aa0106
-K
-finalandconst/final-ex.dart,2/d/2d1276ca1cf469fab3b6dac969e6481ef2dedc21
-K
-finalandconst/const-ex.dart,5/e/5ef9c160d65ee89d18560f6fbf1cd407cea2c100
 I
 builtintypes/strings.dart,c/2/c26798e37e80168a016821e690af80ef725df215
 R
@@ -17,8 +13,6 @@ O
 lists/spread-null-operator.dart,6/5/6549ca6396848dc28c45129e9e4a5aed5986fd6f
 H
 lists/collection-if.dart,9/7/9743cd3dcbf474c5531c020ea51911269ccba8c9
-I
-lists/collection-for.dart,a/9/a94f149596b77f66537f69b238666bf6ef2c5b86
 O
 builtintypes/const-strings.dart,a/8/a829aa8b480eee69bb6979721e81e59f0b7c8c66
 R
@@ -51,5 +45,33 @@ W
 'lexicalclosures/lexical-closure-ex.dart,8/b/8b4225258495b015c76ab4225c13577ffcbce240
 f
 6conditional-expressions/conditional-expression-ex.dart,6/7/67dbd2f1c86237378c4678316032ed60c688f228
+I
+lists/collection-for.dart,a/9/a94f149596b77f66537f69b238666bf6ef2c5b86
+w
+G.idea/sonarlint/issuestore/f/8/f8b7507f69d43ae49be3fe502378c3a9fc32e7a8,c/b/cbdd775986e0e52722f8d7328bf6bcc22bb77cf8
+^
+.classes/constructors/factory_constructors.dart,f/f/ffff97b8edf28cfb15d8b9bedb04d983a26a1249
 X
 (cascadenotation/cascade-notation-ex.dart,f/3/f354678f3eb6c9e9a0ea323485c759cc94a1c07b
+]
+-classes/abstractclasses/abstract_classes.dart,3/2/32943aeebbdbac2b2c0176662ee6905aef613480
+c
+3classes/instancevariables/instance-variable-ex.dart,2/5/25b18d6459be37b3d0547ca5c84622a5cd31ed6f
+U
+%classes/methods/abstract_methods.dart,d/e/deabf00a1e18d9bed0e97a5bd8f22bea51121f00
+[
++classes/methods/getters_and_setters_ex.dart,1/e/1e1681b003c22794343ddf8d1bc42ef49bf740ba
+H
+exceptions/catching.dart,3/3/33188160be82299e595855ab88bfe5b48553bc06
+N
+classes/extending_a_class.dart,5/2/52208f55773826003d80449bad23cfd715e243a1
+O
+classes/overriding_members.dart,1/e/1e56e7e970e573289b5b26a719ce885c18e400ea
+K
+classes/no_such_method.dart,b/6/b6eb7d52aa1fc2e5838060391a505c99a11724d1
+N
+classes/extension_methods.dart,5/e/5ec470c1b8e6ac7b72676eb1d7e67aeb19b773c0
+Q
+!classes/enumeratedtypes/enums.txt,3/3/3364eb8459cdcfd4d9a33b8fffeeafab0458cfa5
+[
++classes/enumeratedtypes/enhanced_enums.dart,b/2/b2e55eab6cce79a5289680d0efbcf947e0e96720
